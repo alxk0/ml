@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+Pro:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Literata:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bitter:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Charter:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Vollkorn:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Vollkorn+SC:wght@400;600;700;900&display=swap');
+* {
+	margin-left: 5;
+	margin-top: 0;
+	padding: 0;
+	box-sizing: border-box;
+	background-color: #F7DBD8;
+	height: 200px;
+}
+body {
+	font-family: 'Inter', sans-serif;
+	font-size: min(max(1rem, 4.35vw), 12px);
+	font-weight: 400;
+	line-height: 1.3;
+	letter-spacing: 0.2px; 
+	overflow-x: hidden;
+	color: #2A2F37;
+}
+a:link { text-decoration: none; color: #2A2F37;}
+a:visited { text-decoration: none; color: #2A2F37;}
+a:hover { text-decoration: none; color: #F7DBD8; background-color: #2A2F37; }
+a:active { text-decoration: none; color: #2A2F37;}
+::-webkit-scrollbar { width: 10px; }
+::-webkit-scrollbar-track { background: #2A2F37; }
+::-webkit-scrollbar-thumb { background: #F7DBD8; }
+::-webkit-scrollbar-thumb:hover { background: #F7DBD8; }
+.wrapper {
+		display: grid;
+  	grid-template-columns: 1fr;
+  	width:99vw;
+  	justify-items: center; /* adjusted */
+  	border: 0px solid blue;
+}
+.grid {
+	display: grid;
+	width: 95vw;
+	max-width:2000px;
+	grid-template-columns: 1fr;
+	grid-template-rows: auto;
+	border: 0px solid purple;
+}
+.grid > div {
+	border: 0px solid red;
+	box-sizing: border-box;
+}
+.title {
+	font-family: 'Karla', serif; 
+	font-size: min(max(1rem, 4.35vw), 14px);
+	font-weight: 500;
+	letter-spacing: 0.0px; 
+}
+.center  { 
+}
+.center > div {
+	border: 0px solid yellow;
+}
+.row {
+}
+.content {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	grid-template-rows: auto;
+	border: 0px solid purple;
+	gap:16px;
+}
+.content > div {
+	border: 0px solid red;
+	box-sizing: border-box;
+	text-align: justify;
+	text-justify: auto;
+}
+hr {
+	 margin-top:9px;
+	 margin-bottom:9px;
+	 height:0.5px;
+	 border-width:0;
+	 color:#2A2F37;
+	 background-color:#2A2F37;
+}
+.responsive{ width: 100%; }
+@media screen and (max-width: 768px) {
+  .grid { width: 100%; }
+}
