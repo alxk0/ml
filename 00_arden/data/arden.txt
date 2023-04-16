@@ -924,6 +924,13 @@ To establish a baseline for her experiment, she began by asking thousands of stu
 
 What she discovered was that even for common animals – including chickens, whales and salmon – people’s notions of their characteristics are all over the map. Are whales majestic? You’d be surprised who disagrees. Are penguins heavy? Opinions vary. By quizzing people on many such associations, Dr. Kidd was able to amass a pool of data that clusters people according to which of these associations they agree on. Using this method, she found that people can be grouped into between 10 and 30 different clusters, depending on their perception of an animal.
 
+Dr. Kidd and her team concluded that people tend not to see eye to eye about even the most basic characteristics of common objects. We also overestimate how many people see things as we do. In a world in which it feels like people are increasingly talking past one another, the root of this phenomenon may be the fact that even for citizens of a single country speaking a common language, words simply don’t mean the same thing to different people.
+
+That might not seem like a very profound observation, but what Dr. Kidd’s research suggests is the degree to which that’s true may be much greater than psychologists previously thought.
+
+Arriving at this insight required the application of a tool of mathematics that makes many kinds of AI possible – known as a “clustering model”.
+
+The most important feature of AI which enables new kinds of research, says Dr.Kidd, is the same that makes possible AI chatbots like OpenAI’s ChatGPT , Google’s Bard , and Microsoft’s Bing chat : It’s the capacity of modern computer systems to process a lot more data than in the past. It “opens up a lot of possibilities for new insights, from biology to medicine to cognitive science,” she adds.
 
 014. Zuboff, Shoshana. The Future of Work and Power in the Age of the Smart Machine, 1984.
 
