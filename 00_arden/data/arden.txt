@@ -10234,3 +10234,5 @@ The solution is not to slow down technology, but rather to eliminate or reverse 
 
 Erik Brynjolfsson is the Jerry Yang and Akiko Yamazaki Professor and Senior Fellow at the Institute for Human-Centered AI and Director of the Digital Economy Lab at Stanford University. He is also the Ralph Landau Senior Fellow at the Institute for Economic Policy Research and Professor by Courtesy at the Graduate School of Business and Department of Economics at Stanford University; and a Research Associate at the National Bureau of Economic Research. He is the author or coauthor of seven books, including Machine, Platform, Crowd: Harnessing Our Digital Future (2017), The Second Machine Age: Work, Progress, and Prosperity in a Time of Brilliant Technologies (2014), and Race against the Machine: How the Digital Revolution Is Accelerating Innovation, Driving Productivity, and Irreversibly Transforming Employment and the Economy (2011) with Andrew McAfee, and Wired for Innovation: How Information Technology Is Reshaping the Economy (2009) with Adam Saunders.
 
+
+/ END OF ARDEN DATA.
