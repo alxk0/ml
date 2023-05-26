@@ -20,7 +20,34 @@ function saveHighlightedText() {
   
   // Save the array of highlighted text to local storage
   localStorage.setItem('highlightedText', JSON.stringify(highlightedTextArray));
+  
+  // Display a success message
+  console.log('Highlighted text saved to local storage.');
 }
+
+// Call the function to retrieve and apply the highlighted text on page load
+retrieveAndApplyHighlightedText();
+
+function retrieveAndApplyHighlightedText() {
+  // Retrieve the stored highlighted text from local storage
+  const storedText = localStorage.getItem('highlightedText');
+  
+  if (storedText) {
+    // Parse the stored text back into an array
+    const highlightedTextArray = JSON.parse(storedText);
+    
+    // Get the corresponding user-highlighted elements
+    const highlightedElements = document.querySelectorAll('.user-highlight');
+    
+    // Loop through each highlighted element and reapply the stored text content
+    highlightedElements.forEach((element, index) => {
+      element.textContent = highlightedTextArray[index];
+    });
+  }
+}
+
+
+
 
 function downloadHighlightedText() {
   // Get all the user-highlighted elements

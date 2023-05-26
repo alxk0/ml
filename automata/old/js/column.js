@@ -30,12 +30,13 @@ function highlightUserSelection() {
     const range = selection.getRangeAt(0);
     const highlightedText = range.extractContents();
     const span = document.createElement('span');
-    span.classList.add('user-highlight');
+    span.classList.add('user-highlight'); // Add the 'user-highlight' class
     span.appendChild(highlightedText);
     span.classList.add('fade-in'); // add fade-in class
     range.insertNode(span);
   }
 }
+
 
 function removeHighlights() {
   const highlightedSpans = leftColumn.querySelectorAll('.user-highlight');

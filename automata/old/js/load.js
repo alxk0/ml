@@ -1,26 +1,13 @@
 $(document).ready(function() {
   var contentIndex = 0;
   var contents = [
-    "txt/000.txt",
-    "txt/001.txt",
-    "txt/002.txt",
-    "txt/003.txt",
-    "txt/004.txt"
+    "text.txt",
+    "text.html"
   ];
 
   // Function to update the content
   function updateContent() {
-    var fileName = contents[contentIndex];
-    $.ajax({
-      url: fileName,
-      dataType: "text",
-      success: function(data) {
-        $('.content00').html(data);
-      },
-      error: function() {
-        $('.content00').html("<p>Error loading content.</p>");
-      }
-    });
+    $('.content00').html(contents[contentIndex]);
   }
 
   // Initial content update
