@@ -1,0 +1,79 @@
+OUTPUT 021							AUTOMATA - GPT-2						 EPOCHS : 23000
+
+
+
+One of the most significant technical contributions to AI research since the field’s umbrella term “ARPA” was SIGART (the Special Interest Group for ARTificial intelligence). It began publishing a Newsletter in 1966, which (as the SIGART Web site says) “continued in various incarnations (the SIGART Bulletin, Intelligence Magazine) until 2001.” Today, SIGART supports various conferences and workshops, and it organizes meetings in which AI doctoral students can present their nearly finished work to their peers and to senior researchers for comments and critiques.
+
+As the field began to develop its techniques and methods, graduate courses in artificial intelligence were offered at some universities. Accordingly, some of us who were teaching these courses thought it would be worthwhile to write or edit books about AI. In 1963, Edward Feigenbaum and Julian Feldman, then assistant professors at UC Berkeley, published a collection of early AI and cognitive science papers that had previously appeared in many different places. The volume was called Computers and Thought and was required reading for early students of AI (including me).2 As Feigenbaum wrote in the 1995 edition, “Some of the papers are as important today as they were in the late 1950s and early 1960s when they were written. Others are very interesting papers that are being worked on today that were not even made public knowledge until much later.”
+
+In 1965, I published a book about neural-network and statistical methods in pattern recognition.3 That book was followed in 1971 by a book about AI search strategies.4 Around the same time, other texts were published by James Slagle5 and by Bertram Raphael,6 both former Ph.D. students of Marvin Minsky at MIT.
+
+In 1969 Marvin Minsky and Seymour Papert published an influential book in which they proved, among other things, that some versions of Rosenblatt’s perceptrons had important limitations.7 Some have claimed that the Minsky–Papert book was the cause of a fading interest in neural-network research, but I doubt this. First, Rosenblatt himself began concentrating on other topics well before 1969,8 and the success of heuristic programming methods caused a shift of attention (including my own) away from neural networks during the mid-1960s.
+
+In 1965, Donald Michie at the University of Edinburgh organized the first of several invitation-only “Machine Intelligence” workshops. This first one was held in Edinburgh and was attended by American and European researchers. Attendees gave papers at the workshop, and these were all published in a book edited by N. L. Collins and Donald Michie in 1967. A second workshop was held in September 1966, also at the University of Edinburgh. Subsequent workshops were held annually in Edinburgh through 1971. Thereafter, the "workshops were held every few years at various venues. Each workshop resulted in a book with the title Machine Intelligence N, where N denotes the workshop and volume number.9 The last few volumes have been published online by the Electronic Transactions on Artificial Intelligence.10 These books contain some of the most cited and important papers in the early history of the field.
+
+These years saw the United States engaged in war in Vietnam, and Congress wanted to make sure that research supported by the U.S. Defense Department was relevant to military needs. Responding to these pressures, on November 19, 1969, Congress passed the “Mansfield Amendment” to the Defense Procurement Authorization Act of 1970 (Public Law 91-121), which required that the Defense Department restrict its support of basic research to projects “with a direct and apparent relationship to a specific military function or operation.” On March 23, 1972, the Advanced Research Projects Agency was renamed the Defense Research Advanced Projects Agency (DARPA) to reflect its emphasis on projects that contributed to enhanced military capabilities. (The name reverted to the Advanced Research Projects Agency in 1993 and then back to the Defense Advanced Research Projects Agency in 1996.)11
+
+On the other side of the Atlantic, British AI researchers experienced their own funding crisis. One of the U.K.’s main funding bodies for university research, the Science Research Council, asked Professor James Lighthill, a famous hydrodynamicist at Cambridge University, to undertake an evaluative study of artificial intelligence research. 
+
+Lighthill’s report, titled “Artificial Intelligence: A General Survey,” somewhat idiosyncratically divided AI research into three categories, namely, advanced automation, computer-based studies of the central nervous system, and the bridges in between. He called these categories A, C, and B, respectively. Although he came out in favor of continued work in categories A and C, he was quite critical of most AI basic research, including robotics and language processing, which he lumped into category B. He wrote that “In no part of the field have the discoveries made so far produced the major impact that was then [around
+====================
+,” “lord,” “you have to be patient,” and “bah- so I’ll just say, ” Yes, there’s a lot of WBE in this world. I may be a little worried about the Einsteins in your bloodstream.”
+
+But perhaps we’ll eventually see human-made AI emerge as an important step towards a deeper social understanding. Or perhaps not. The final result—if it happens—would be an AI with an IQ of 6,455, but with a history of 9,832,856 people. They are now arguing before us about what should be done now.
+
+“We need a basic system that provides health insurance and other essential services for people who are in serious medical need. This could be done without an individual mandate.”
+
+The policy implications of the proposed model are many and quite profound. Insurance could be denied under existing EU law if a person was denied medical care because their private data was used in a criminal investigation. There are Constitutional requirements for non-trivially regulated financial institutions and sovereigns to do so.
+
+The UK is a vivid example. Despite having the second-lowest population A ll00, the UK does have one of the lowest levels of AI development, at just 3.3 per cent, with the United States at No 3.4 per cent. This means that 3.4 per cent of people are not in a job and 1 per cent are working well. 2016 saw the first rise in life expectancies in its recorded history, this time between 50 and 60 per cent. People are now more likely than ever to experience the full benefits of technological innovation.
+
+life at a discount when it comes to the challenges ahead. Economists have long argued that the introduction of AI will lead to a new division of labour and that the future would see aander Wave workers competing for the same job.
+
+ceptualo, the economics professor, argues that a certain future where artificial intelligence is the norm and life forwhole persons androbotization is less likely to be feasible.
+
+The economist Robin Hanson estimates the financial worth of an AI and the risks of its impacts at four domains. The most important of these isnt clear-cut: while a certain future where no one has access to the internet is protected by intellectual property, welihood of someone being harmed by an AI is greater than if they would initially have been unaware. If a superintelligence with a sufficiently large impact on the world had been created earlier, it could have an easier time exploiting the Internet for its own sake.
+
+hundreds of studies into the potential harms of generative AI already have been done—on health, education, and criminal justice—and this time, in a proactive, informed, and publicly funded effort. The US Department of Justice has released a working plan for how to counter the influence of generative AI.15 The measure is a success: generative AI already acts as a filter, a third-party mitigation mechanism, or an enforcement tool.
+
+The US Department of Justice has also announced legislation to create a non-partisan AI Commission with the aim of establishing a framework for AI governance.16 These measures would require that a majority of all US federal AI agencies be audited and overseen by outside experts, and then a necessary additional federal review conducted by Congress.17 This would create a regulatory authority with broad powers to prevent and track misbehavior.
+
+There are also significant risks involved than “general AI”. The US lacks an effective statutory or regulatory framework for the principles that will guide the development of artificial intelligence. Without a comprehensive statutory framework, there is no way to “compassionate” with which to pursue these principles: “assionate” is defined as finding a high-quality reason forHumans being moved by this technology, and fallback should not be attempted.
+
+In other words, we perform effective humananical tasks that fall outside of scope of the relevant articlomercial laws of this framework. We’ll distinguish two broad classes of these tasks, those that fall within the scope of the relevant skills necessary to be enabled by the enhanced capabilities of the machine superintelligence and those that are either undertaken by human beings or are strongly associated with human well-being. We will consider these in turn
+
+A. Computation Theory
+
+First, let’s look at some basic principles of machine intelligence. These are meant to help us understand how the machine can obey any instruction given to it by human beings, because they imply that the machine is necessarily restricted to do these things. Solving questions about this subject are to be attempted in the light of the complexity andAI principles that are meant to cover this sort of work.
+
+The first principle: intelligence explosion
+
+The first principle, that the machine’s only objective is to maximize the realization of human preferences, is
+====================
+.
+
+The difference is just in the verb–”advocated” or “feared.” As Winograd points out, the pronoun “they” in each sentence is officially ambiguous. Both readings of the pronoun are always legal. Thus, we can imagine a world in which governmental committees in charge of parade permits advocate violence in the streets and, for some strange reason, use this as their pretext for denying a parade permit. But the natural, reasonable, intelligent reading of the first sentence is that it’s the group that wants to suppress the parade; and if the parade is held to mark the successes of twentieth-century technological progress, then there will be some serious bodily injury and bodily death.
+
+The bodily alteration due to automation is still very poorly understood. One of the great debates over the future of workplace automation has been over whether the today’s technologies are as good as they seem, or whether they could be expected to remain so, even with continued automation. There are many ways of improving the performance of workers, and the effects of automation are still poorly understood. We need a radical rethinking of our economy and our social contract to reward socially productive activities that are high-quality, socially integrated, and socially beneficial.
+
+This is not an ethical judgment on either of these two approaches. Utilitarian AI systems and rights-based approaches are good enough for many applications, andrayon-the-workman approach is just another way to build a society safe and thrive in the age of artificial intelligence. In fact, there is controversy about just what HLAI might be. Will we have achieved what we set out to achieve, or will we be stalked by other AI superpowers, such as whole brain emulation and virtual reality?
+
+The preceding chapter analyzed one key parameter in determining the size of the human aggregates desire and conscience: the capacity to feel guilt. This parameterizes the range of possible emotions a superintelligence might have: fear, pride, and remorse. Yet it is also a useful data set for understanding how to make machines more ethical. It provides a deeper insight into the place of defining values within the enterprise, and what kinds of politics are necessary to ensure these limits are maintained.
+
+The magnitudes of the above issues are too great not to bring up controversial issues like the ethics of AI, but merely to provide a basic framework for understanding the possible outcomes of AI systems. That framework should provide governments with enough oversight to avoid them happening concurrently with the creation of AI superpowers. With such a potential risk D, how can governmentsanction the largest possible number of humans into a life of leisure?
+
+The other parameterizes in how we collect data. We have already considered the challenges of inferring emotions from facial movements, seeing how facial expressions work to fuel thebertraphies. We saw the politics of constructing such systems – that is, the extraction of personal data from people’s data.
+
+Even though the limits of facial recognition are being challenged, it is still necessary to consider the full range of issues that can rise before their technical and ethical impacts. Child welfare, workplace AI, and the legal system. These final three are a strong focus for will-power politics, but there are many other issues that fall outside of this group. Our numbers would then grow astronomically in a growing population. So let’s consider the last five years’s numbers.
+
+5.8% of the People
+
+China’s population is still without access to the internet. Rapid population growth and low labour productivity would eat away at other countries’ economies of scale, like the us, and lead to massive unemployment. chart here
+
+Even before the internet, the developed world has been hit by natural human automation.omnus. This was the first time that the physical world was dramatically unequal, with the world’s population concentrated in the us and countries. Following the 2008 financial crisis, President Obama’s stimulus program included plans for government loan guarantees on promising renewable energy projects. It was a program designed to stimulate a stagnant economy but also to facilitate a broader economic and environmental shift toward green energy.
+
+One of the recipients of those loan guarantees was Solyndra, a California solar panel company that initially looked promising but then went bankrupt in 2011. President Obama’s critics quickly turned that failure into one of the most potent political bludgeons of the 2012 presidential election. They hammered the president with millions of dollars in attack ads, criticizing the “wasteful” spending as a symptom of “crony capitalism” and “venture socialism.” Never mind that, on the whole, the loan guarantee program is projected to earn money for the federal government—one high-profile failure was enough to tar the entire enterprise of technological upgrading.
+
+Obama survived the negative onslaught to win another term, but the lessons for American politicians were clear: using government funding to invest in economic
+====================
+
