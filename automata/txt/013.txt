@@ -1,0 +1,59 @@
+OUTPUT 013							AUTOMATA - GPT-2						 EPOCHS : 15000
+
+
+
+The creators of ChatGPT and the businesspeople involved in bringing it to market, notably OpenAI’s CEO, Sam Altman, deserve much credit for offering the new AI sensation to the public. Its potential is vast. But that doesn’t mean we must accept their vision and aspirations for where we want the technology to go and how it should be used.
+
+According to their narrative, the end goal is artificial general intelligence, which, if all goes well, will lead to great economic wealth and abundances. Altman, for one, has promoted the vision at great length recently, providing further justification for his longtime advocacy of a universal basic income (UBI) to feed the non-technocrats among us. For some, it sounds tempting. No work and free money! Sweet!
+
+It’s the assumptions underlying the narrative that are most troubling— namely, that AI is headed on an inevitable job-destroying path and most of us are just along for the (free?) ride. This view barely acknowledges the possibility that generative AI could lead to a creativity and productivity boom for workers far beyond the tech-savvy elites by helping to unlock their talents and brains. There is little discussion of the idea of using the technology to produce widespread prosperity by expanding human capabilities and expertise throughout the working population.
+
+As Acemoglu and Johnson write: “We are heading toward greater inequality not inevitably but because of faulty choices about who has power in society and the direction of technology … In fact, UBI fully buys into the vision of the business and tech elite that they are the enlightened, talented people who should generously finance the rest.”
+
+Acemoglu and Johnson write of various tools for achieving “a more balanced technology portfolio,” from tax reforms and other government policies that might encourage the creation of more worker-friendly AI to reforms that might wean academia off Big Tech’s funding for computer science research and business schools.
+
+But, the economists acknowledge, such reforms are “a tall order,” and a social push to redirect technological change is “not just around the corner.”
+
+The good news is that, in fact, we can decide how we choose to use ChatGPT and other large language models. As countless apps based on the technology are rushed to market, businesses and individual users will have a chance to choose how they want to exploit it; companies can decide to use ChatGPT to give workers more abilities—or to simply cut jobs and trim costs.
+
+Another positive development: there is at least some momentum behind open-source projects in generative AI, which could break Big Tech’s grip on the models. Notably, last year more than a thousand international researchers collaborated on a large language model called Bloom that can create text in languages such as French, Spanish, and Arabic. And if Coyle and others are right, increased public funding for AI research could help change the course of future breakthroughs.
+
+Stanford's Brynjolfsson refuses to say he’s optimistic about how it will play out. Still, his enthusiasm for the technology these days is clear. “We can have one of the best decades ever if we use the technology in the right direction,” he says. “But it’s not inevitable.”
+
+
+/ 012. Seetharaman, Deepa. "Elon Musk, Other AI Experts Call for Pauwse in Technology's Development," 2023.
+
+
+Appeal causes tension among artificial-intelligence stakeholders amidconcern over pace of advancement
+
+Several tech executives and top artificial-intelligence researchers, including Tesla Inc. Chief Executive Offi cer Elon Musk and AI pioneer Yoshua Bengio , are calling for a pause in the breakneck development of powerful new AI tools.
+
+A moratorium of six months or more would give the industry time to set safety standards for AI design and head off potential harms of the riskiest AI technologies , the proponents of a pause said.
+
+“We’ve reached the point where these systems are smart enough that they canbe used in ways that are dangerous for society,” Mr. Bengio, director of theUniversity of Montreal’s Montreal Institute for Learning Algorithms, said in an interview. “And we don’t yet understand.”
+
+These concerns and the recommendation for the pause were laid out in a letter titled “Pause Giant AI Experiments: An Open Letter” coordinated by the non profit Future of Life Institute, which lists Mr. Musk as an external adviser.The letter that was made public Wednesday was also signed by Apple co-founder Steve Wozniak ; Stability AI CEO Emad Mostaque; and co-founders of the Center for Humane Technology, Tristan Harris and Aza Raskin, who have been critical of social media and AI technology, said a spokeswoman for the team
+====================
+ proposed a method, called “time-sharing,” by which a single computer could be made to serve several users simultaneously – acting as if each user had his or her own private machine. Working initially with Ed Fredkin at Bolt, Beranek, and Newman (BBN) and later with others, Newell and Simon set up shop in Wheeler, Dinneen, and Russell.
+
+As the late 1960s and early 1970s saw more and more computer science papers appeared in the United States, Canada, and the United Kingdom. However, most of these were published in an etymological sense, and communication with the rest of the world was rather slow. As a result, the term “time” became concerned in the 1970s about a misallocation of computer resources to poorer countries and to richer countries. “But,” the AI professor Peter Elias coined the term, and time is forgotten.”
+
+Like the times of today, the temporal and spatial realities of AI are now reflecting and reinforcing historical inequality. As AI professor David Autor and I noted in a recent book about the future of workplace management, a machine-learning system can be forgiven for its reliance on guesswork. Often, we find ourselves promising clues about the future from observations of past behavior: a machine predicts what will happen next in the world, what people want in life—the world orders what happens—but it can’t predict what those orders will be.
+
+In a chapter called "Non-Binary Machines" in which he described a scientific paper that had been classified too optimistic, the view was explained by the fact that the machine was operating below the human norm. Although he had supported scientific research since the late 1960s, he was still a Saganite when it came to scientific precision. Sagan wrote: “We do not expect to be able to predict fully in advance what is to be done; rather, we want to be able to do something about it.”
+
+The optimistic view was shared by the late cosmologist Stephen Hawking. In his famous quotation,13 Sagan wrote, “I think Sagan has a point, but for the meantime, I–I think humanity is going to have to agree to disagree with him.” The reason is that –in spite of the existence of physically impossible –more energy will still be lost in the energy storage than will be gained by innovating. So, the problem is not that we might make us but that we would make it impossible to make both feasible and desirable. The solution is to change the basic characteristic of the machine to one of intelligence, much as the automobile turns off the engine when it goes down.
+
+One can hope that the next chapter, where we will discuss the possibility of producing an intelligence in a machine, will provide a definite answer to this question.
+
+The important thing, he says, is to not let the superintelligent machine get ahead of the game by developing the right kind of plan. Otherwise we get into an artificial intelligence game in which the rules are designed to prevent the machine from leveraging out its l i ne to expand its l i ne to a whole new level of complexity.
+
+The other major problem is getting the system to recognize when something might be an existential threat. There has to be some way to tell if something is a threat, and if not, we have already done so in the case that our solution is not immediate. The AI would have to be able to see. One i ne use there is the capability toagoguery context, which has been described ay its role in sciences such as computer programming. It is claimed that because the perceived threat can be hard to prove, mitigation is possible. There is a elicitor for the target of the lie detector to be triggered by something other than actual ignorance. The claim that the claimed threat is unaphased is false. The claim that the claimed threat is unaphased depends on something else that we have not mentioned yet. The claim that the claimed threat is unproductive is also unaphased. The claim that the claimed threat is unproductive is also unaphased.
+
+That there are multiple ways of approaching the problem of existential risk is also true. We could suppose that the scientists who are working on the frontier of machine intelligence are also working on the problem of how to define the frontier of safety. And that is why the role of scientific management is crucial to any project that seeks to develop machine intelligence.
+
+UNDERSERVED COMMUNITIES
+
+Another standard rhetorical device for denying that there is AI is the madness of job applicants. In the United States, some 6 million people apply to jobs in the fall of 1958. The figure for the full-time employed in the United States is less than for the employed in the 1950s. The reason for this is the Difference Yearlihood, which taken together represents a 1 in 10 chance of the originality of the statement being true. Under these circumstances
+====================
+
