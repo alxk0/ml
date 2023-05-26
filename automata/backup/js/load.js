@@ -1,8 +1,11 @@
 $(document).ready(function() {
   var contentIndex = 0;
   var contents = [
-    "text.txt",
-    "text.html"
+    "txt/000.txt",
+    "txt/001.txt",
+    "txt/002.txt",
+    "txt/003.txt",
+    "txt/004.txt"
   ];
 
   // Function to update the content
