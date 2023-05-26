@@ -1,10 +1,8 @@
 $(document).ready(function() {
   var contentIndex = 0;
   var contents = [
-    "test.html",
-    "next_content_1.txt",
-    "next_content_2.txt",
-    "next_content_3.txt"
+    "text.txt",
+    "text.html"
   ];
 
   // Function to update the content
