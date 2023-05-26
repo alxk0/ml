@@ -5,7 +5,13 @@ $(document).ready(function() {
     "txt/001.txt",
     "txt/002.txt",
     "txt/003.txt",
-    "txt/004.txt"
+    "txt/004.txt",
+    "txt/005.txt",
+    "txt/006.txt",
+    "txt/007.txt",
+    "txt/008.txt",
+    "txt/009.txt",
+    "txt/010.txt"
   ];
 
   // Function to update the content
